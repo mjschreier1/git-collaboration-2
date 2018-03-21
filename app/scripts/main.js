@@ -58,5 +58,5 @@ const evenMoreObjects = [
     },{
         name: "Owen",
         age: 20
-    }
+    } 
 ]
