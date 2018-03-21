@@ -22,3 +22,16 @@ function findSum(numbers) {
 }
 
 findSum()
+
+const moreObjects = [
+    {
+        name: "Chance",
+        age: 30
+    },{
+        name: "Roberto",
+        age: 30
+    },{
+        name: "Will",
+        age: 26
+    }
+]
