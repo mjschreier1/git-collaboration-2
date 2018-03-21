@@ -47,3 +47,16 @@ const moreObjects = [
 const findProduct = numbers => numbers.reduce((acc, num) => acc * num, 1)
 
 findProduct(numbers)
+
+const evenMoreObjects = [
+    {
+        name: "Milo",
+        age: 30
+    },{
+        name: "Jordan",
+        age: 25
+    },{
+        name: "Owen",
+        age: 20
+    }
+]
