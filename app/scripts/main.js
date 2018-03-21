@@ -35,3 +35,7 @@ const moreObjects = [
         age: 26
     }
 ]
+
+const findProduct = numbers => numbers.reduce((acc, num) => acc * num, 1)
+
+findProduct(numbers)
